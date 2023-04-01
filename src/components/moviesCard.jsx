@@ -34,7 +34,7 @@ return (
                 <CardMedia
                   style={{height: 240}}
                   image={`${base_url}/${data.image}`}
-                  alt = {"https://th.bing.com/th/id/R.188f905ec78a949b7264430bd87cc8d7?rik=IUiFfCOVESXLHw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fDesktop-Matrix-HD-Wallpapers-Free-Download.jpg&ehk=w1LjD2ZwsIxZidSnA9ycTC1KAggXV9CLonL6T19kxPM%3d&risl=&pid=ImgRaw&r=0"}
+                  alt = {"Movie Poster"}
                 />
                 <CardContent>
                   <Typography align="center" gutterBottom variant="h5" component="h2">
